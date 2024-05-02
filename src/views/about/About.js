@@ -23,7 +23,7 @@ const About = () => {
               <Row className=" align-items-start p-2 my-details rounded tex align-text-left " >
                 <br />Web Developer with expertise of React.js, Redux, Cloud Firestore, HTML and CSS. currently learning React Native for Mobile Application.
                 <br /><br />
-                I am passionate programmer and a learner, born and brought up in Pakistan.Currently, I am enrolled in Tech Karo - Web Development Program "Conducted by CIRCLE".
+                I am passionate programmer and a learner, born and brought up in Delhi.Currently, I am enrolled in Full Stack Web Dev - Web Development Program "Conducted by Alma Better".
                 <br />
                 {/* <br />
                 Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
